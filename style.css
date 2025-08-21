@@ -13,10 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: gutenberg-boilerplate
 Tags: 
 */
-/* .wp-block-additional-blocks-search.has-style input[type='search'].search-input {
-  background: red !important;
+.wp-block-post {
+  border-radius: 15px;
+  overflow: hidden;
 }
-
-body {
-  font-size: 155px !important;
-} */

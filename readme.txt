@@ -1,4 +1,4 @@
-== Məktəbli v5 ==
+== Gutenberg Boilerplate Theme ==
 
 Contributors: Tahir Asadli
 Requires at least: 6.8
@@ -16,8 +16,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Copyright ==
 
-Məktəbli v5 WordPress Theme, (C) 2025 Tahir Asadli
-Məktəbli v5 is distributed under the terms of the GNU GPL.
+Gutenberg Boilerplate WordPress Theme, (C) 2025 Tahir Asadli
+Gutenberg Boilerplate is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
